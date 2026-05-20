@@ -12,7 +12,7 @@
 I believe GenAI and LLMs aren’t just tools for generating “slop”.
 They can be incredibly powerful for solving real problems, especially for me.
 
-I can use them to solve the problems often of my city and community which often go unnoticed.
+I can use them to solve the problems of my city and community which often go unnoticed.
 
 Many everyday problems in my city and community feel:
 
